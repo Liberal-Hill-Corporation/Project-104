@@ -1,0 +1,27 @@
+body{
+    color: white;
+    background-color: olivedrab;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    width: 80%;
+    font-size: 22px;
+    text-align: center;
+}
+
+#purple{
+    background-color: blueviolet;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+}
+#result_of_objects, #result_of_accuracy{
+    color: yellow;
+    text-align: center;
+}
+
